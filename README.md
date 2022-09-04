@@ -1,0 +1,5 @@
+- Hi, I’m @PuneetPuli
+- Interested in Machine Translation
+- Currently learning Java Swing
+- I like creating applications
+- e-mail: puli.puneet@gmail.com
