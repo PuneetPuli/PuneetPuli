@@ -1,4 +1,1 @@
-- Hi, I’m @PuneetPuli
-- Interested in Machine Translation
-- I like creating applications
-- e-mail: puli.puneet@gmail.com
+
